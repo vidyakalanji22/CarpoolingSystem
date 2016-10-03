@@ -1,0 +1,7 @@
+Black:Sedan:Corola:CA1234:Shelly
+Black:Sedan:1234:CAL234:Danny
+Maroon:XUV:2013:CAL987:Frank
+Grey:Sedan:44566:CAL876:Don
+Yellow:Sedan:67854:CAL987:Lorence
+Orange:Sedan:2016:CAL987:Ray
+Red:XUV:2016:TX768:Jerry

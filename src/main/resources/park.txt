@@ -1,0 +1,33 @@
+SanMateo:GarageB:08/16/2016:8.0:5.0:40.0
+SanFrancisco:GarageA:08/14/2016:9.0:11.0:15.0
+SanMateo:GarageB:08/16/2016:8.0:5.0:40.0
+SanFrancisco:GarageA:08/14/2016:9.0:11.0:15.0
+SanFrancisco:GarageA:08/14/2016:9.0:11.0:15.0
+SanFrancisco::08/14/2016:9.0:11.0:15.0
+SanFrancisco:GarageA:08/14/2016:9.0:11.0:15.0
+SFO:South Garage:12/12/2016:10.0:11.0:15.0
+SanMateo:East west Garage:12/12/2016:10.0:11.0:15.0
+SFO:South Garage:12/12/2016:10.0:11.0:15.0
+SanMateo:East west Garage:12/12/2016:10.0:11.0:15.0
+SFO:South Garage:12/12/2016:10.0:11.0:15.0
+SanMateo:East west Garage:12/12/2016:10.0:11.0:15.0
+SFO:South Garage:12/12/2016:10.0:11.0:15.0
+SanMateo:East west Garage:12/12/2016:10.0:11.0:15.0
+SFO:South Garage:12/12/2016:10.0:11.0:15.0
+SanMateo:East west Garage:12/12/2016:10.0:11.0:15.0
+SanFrancisco::08/14/2016:9.0:11.0:15.0
+SanFrancisco::08/14/2016:9.0:11.0:15.0
+SanFrancisco:South main Garage:08/14/2016:9.0:11.0:15.0
+SanFrancisco::08/14/2016:9.0:11.0:15.0
+SanFrancisco::08/14/2016:9.0:11.0:15.0
+SanFrancisco::08/14/2016:9.0:11.0:15.0
+SanFrancisco:South main Garage:08/14/2016:9.0:11.0:15.0
+SanFrancisco::08/14/2016:9.0:11.0:15.0
+SanFrancisco::12/12/2016:4.0:5.0:15.0
+SanFrancisco::Tuesday:11.0:12.0:15.0
+SanFrancisco::Tuesday:10.0:12.0:15.0
+Milbrae::12/23/2016:12.0:2.0:50.0
+SanFrancisco::12/12/2016:12.0:2.0:15.0
+SanMateo:North Garage:12/12/2016:4.0:5.0:40.0
+SanFrancisco::12/12/2014:10.0:11.0:15.0
+SanFrancisco::12/12/2016:10.0:11.0:15.0
